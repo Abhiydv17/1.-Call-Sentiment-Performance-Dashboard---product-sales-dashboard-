@@ -21,9 +21,9 @@ This project analyzes customer sentiment, CSAT scores, and operational metrics f
 - Tableau Public
 - Git & GitHub
 
-## 📸 Screenshots
+## 📸 Tableau
 
-_Add screenshots of your Tableau dashboard here for visual context._
+ Check in tableau seaction for dashboard 
 
 ## 🚀 How to Use
 
@@ -33,4 +33,4 @@ _Add screenshots of your Tableau dashboard here for visual context._
 
 ## 📬 Contact
 
-For questions or collaboration, reach out via [LinkedIn](#) or email.
+For questions or collaboration, reach out via email : abiydv170406@gmail.com
