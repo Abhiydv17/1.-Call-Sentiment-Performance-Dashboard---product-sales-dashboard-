@@ -23,7 +23,7 @@ This project analyzes customer sentiment, CSAT scores, and operational metrics f
 
 ## 📸 Screenshots
  
- open the tableau folder for dashboard viewgit
+ open the tableau folder for dashboard view
 
 ## 🚀 How to Use
 
